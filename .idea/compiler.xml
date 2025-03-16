@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Esercizi" />
         <module name="SommaMaxVect_On3" />
+        <module name="SommaMaxVect_On2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
