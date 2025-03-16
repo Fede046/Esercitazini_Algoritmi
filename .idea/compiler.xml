@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Esercizi" />
-        <module name="BFS" />
+        <module name="SommaMaxVect_On3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BFS" target="22" />
+    </bytecodeTargetLevel>
   </component>
 </project>
