@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SommaMaxVect_On2" />
         <module name="Algoritmo_Prim" />
+        <module name="Kruskal" />
         <module name="Esercizi" />
         <module name="SommaMaxVect_On3" />
       </profile>
