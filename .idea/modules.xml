@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Esercitazini_Algoritmi.iml" filepath="$PROJECT_DIR$/.idea/Esercitazini_Algoritmi.iml" />
     </modules>
   </component>

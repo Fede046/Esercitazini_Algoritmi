@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SommaMaxVect_On2" />
+        <module name="Algoritmo_Prim" />
         <module name="Esercizi" />
         <module name="SommaMaxVect_On3" />
-        <module name="SommaMaxVect_On2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
